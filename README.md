@@ -1,5 +1,8 @@
 <h2> Hello👋  This is YUNHYEOK JI. </h2>
 
+<img src="https://img.shields.io/badge/Gmail-yhji1127@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+
 <span> yhji1127@naver.com </span>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=JIYUNHYEOK)
