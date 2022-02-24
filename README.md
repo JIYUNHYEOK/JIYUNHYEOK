@@ -1,7 +1,7 @@
 <h2> Hello👋  This is YUNHYEOK JI. </h2>
 
-<img src="https://img.shields.io/badge/Gmail-yhji1127@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-yhji1127@naver.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yhji1127@naver.com)](mailto:yhji1127@naver.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A4%ED%98%81-%EC%A7%80-29aaa2232/)](https://www.linkedin.com/in/%EC%9C%A4%ED%98%81-%EC%A7%80-29aaa2232/)
 
 <span> yhji1127@naver.com </span>
 
