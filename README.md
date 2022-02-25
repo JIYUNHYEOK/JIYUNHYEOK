@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/zdbsgur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zdbsgur/"/></a>&nbsp
   <a href="mailto:yhji1127@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yhji1127@gmail.com"/></a>&nbsp
   <a href="https://www.linkedin.com/in/%EC%9C%A4%ED%98%81-%EC%A7%80-29aaa2232/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%9C%A4%ED%98%81-%EC%A7%80-29aaa2232/"/></a>&nbsp
-  <a href="https://velog.io/@yhji1127"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yhji1127"/></a>&nbsp
+  <a href="https://velog.io/@yhji1127"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yhji1127"/></a>&nbsp
 </p>
 
 <br>
