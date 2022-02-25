@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JI%20YUNHYEOK&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JI%20YUNHYEOK%20's%20GitHub&fontSize=60)
 
 <h2> Hello👋  This is YUNHYEOK JI. </h2>
 
