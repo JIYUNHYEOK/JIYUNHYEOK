@@ -99,7 +99,7 @@
 
 <br>
 
-[![JIYUNHYEOK's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=JIYUNHYEOK&theme=redical)](https://github.com/JIYUNHYEOK/github-readme-activity-graph)
+[![JIYUNHYEOK's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=JIYUNHYEOK&theme=rogue)](https://github.com/JIYUNHYEOK/github-readme-activity-graph)
 
 <br>
 
