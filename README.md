@@ -85,7 +85,7 @@
 | 워드프로세서 1급 | 2010.02.19 (금) | 대한상공회의소 |
 | 컴퓨터활용능력 1급 필기 | 2021.01.21 (목) | 대한상공회의소 |
 | 자동차운전면허증 1종보통 | 2016.03.23 (수) | 서울특별시경찰청 |
-
+ 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIYUNHYEOK&layout=compact&theme=dark&langs_count=5)](https://github.com/JIYUNHYEOK/github-readme-stats)
