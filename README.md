@@ -74,7 +74,7 @@
 | [교내] D&A conference | 너의 손글씨가 보여 | 개인의 손글씨를 학습시켜 폰트화 | [링크](https://github.com/JIYUNHYEOK/Creating-Hand-Writing) |
 
 <br>
-
+ 
 # Certificate
 | 시험명 | 취득일 | 주관 |
 | :------: | :------: | :------: |
