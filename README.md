@@ -73,6 +73,7 @@
 | [교내] 딥러닝 | 행동 추정을 통한 실시간 이상행동 탐지 | 딥러닝을 활용한 인공지능 연구에 대한 선행연구 조사 및 연구계획 수립 | [링크](https://github.com/JIYUNHYEOK/Project/tree/main/Campus/Deep%20Learning) |
 | [교내] 빅데이터프로젝트: 캡스톤디자인II | 잘먹고 잘지냄 | 숙박브랜드(언바운디)의 MZ세대 마케팅 방법 제안 | [링크](https://github.com/JIYUNHYEOK/Project/tree/main/Campus/Big%20Data%20Project%20_%20Capstone%20Design%20II) |
 | [교내] D&A conference | 너의 손글씨가 보여 | 개인의 손글씨를 학습시켜 폰트화 | [링크](https://github.com/JIYUNHYEOK/Creating-Hand-Writing) |
+| [교내] 빅데이터프로젝트: 캡스톤디자인I | Recommender System Using Wide & Deep Technique With Channel Attention | 개인화 추천알고리즘 모델 설계 | [링크](https://github.com/JIYUNHYEOK/Project/tree/main/Campus/Big%20Data%20Project%20_%20Capstone%20Design%20I) |
 
 <br>
  
