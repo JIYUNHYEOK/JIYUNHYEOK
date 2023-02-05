@@ -76,7 +76,7 @@
 | [교내] 빅데이터프로젝트: 캡스톤디자인I | Recommender System Using Wide & Deep Technique With Channel Attention | 개인화 추천알고리즘 모델 설계 | [링크](https://github.com/JIYUNHYEOK/Project/tree/main/Campus/Big%20Data%20Project%20_%20Capstone%20Design%20I) |
 
 <br>
- 
+
 # Certificate
 | 시험명 | 취득일 | 주관 |
 | :------: | :------: | :------: |
