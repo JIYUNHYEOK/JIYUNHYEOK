@@ -1,11 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JI%20YUNHYEOK%20's%20GitHub&fontSize=60&animation=fadeIn)
  -->
- 
-<div align=center>
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
- 
-</div>
 
 <h2> Hello👋  This is YUNHYEOK JI. </h2>
 
@@ -45,6 +39,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> </a>&nbsp 
 </p>
+
+<div align=center>
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
+ 
+</div>
 
 <br>
 <br>
