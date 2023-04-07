@@ -1,6 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JI%20YUNHYEOK%20's%20GitHub&fontSize=60&animation=fadeIn)
  -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
 
 <h2> Hello👋  This is YUNHYEOK JI. </h2>
 
@@ -92,6 +91,10 @@
 | 자동차운전면허증 1종보통 | 2016.03.23 (수) | 서울특별시경찰청 |
 
 <br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
+<br>
+<!-- 
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIYUNHYEOK&layout=compact&theme=dark&langs_count=5)](https://github.com/JIYUNHYEOK/github-readme-stats)
 
@@ -113,7 +116,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIYUNHYEOK&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
 </p>
 
-<br>
+<br> -->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer&text=THANK%20YOU&fontSize=60&animation=fadeIn)
 
