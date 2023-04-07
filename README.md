@@ -1,13 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JI%20YUNHYEOK%20's%20GitHub&fontSize=60&animation=fadeIn)
  -->
- <div>
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127">
-</div>
+ 
+<p style="text-align: center;"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127"> </p>
 
- img {
-    margin: auto;
-    display: block;
-    }
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/) -->
 
 <h2> Hello👋  This is YUNHYEOK JI. </h2>
