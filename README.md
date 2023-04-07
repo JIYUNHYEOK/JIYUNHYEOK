@@ -42,6 +42,8 @@
 
 <br>
 
+<h3 align="center"> ⭐️ BOJ Tier ⭐️ </h3>
+
 <div align=center>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
