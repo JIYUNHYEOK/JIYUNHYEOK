@@ -42,15 +42,13 @@
 
 <br>
 
-<h3 align="center"> ⭐️ BOJ Tier ⭐️ </h3>
+<h3 align="center"> 🙏🏻 BOJ Tier 🙏🏻 </h3>
 
 <div align=center>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
  
 </div>
-
-<br>
 
 # Career
 | 졸업년월 | 학교(회사) | 전공 | 학력 | 졸업구분 | 학위구분 |
