@@ -7,7 +7,7 @@
  
 </div>
 
-<h2> Hello👋  This is YUNHYEOK JI. </h2>
+<h2 align="center"> Hello👋  This is YUNHYEOK JI. </h2>
 
 <h3 align="center"> 🧸 Profile  🧸 </h3>
 <p align="center">
