@@ -1,22 +1,13 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JI%20YUNHYEOK%20's%20GitHub&fontSize=60&animation=fadeIn)
  -->
-<!-- <div align=center>
-
-### ✨ My Stats ✨
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IronJin)](https://github.com/gra1259@naver.com/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIronJin%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div> -->
+<div align=center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
+</div>
 
 <h2> Hello👋  This is YUNHYEOK JI. </h2>
 
 <h3 align="center"> 🧸 Profile  🧸 </h3>
 <p align="center">
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
   <a href="https://www.facebook.com/profile.php?id=100002164661658"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002164661658"/></a>&nbsp
   <a href="https://www.instagram.com/zdbsgur/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/zdbsgur/"/></a>&nbsp
   <a href="mailto:yhji1127@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yhji1127@gmail.com"/></a>&nbsp
