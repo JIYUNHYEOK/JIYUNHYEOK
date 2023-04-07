@@ -1,5 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=JI%20YUNHYEOK%20's%20GitHub&fontSize=60&animation=fadeIn)
  -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
 
 <h2> Hello👋  This is YUNHYEOK JI. </h2>
 
@@ -90,9 +91,6 @@
 | 컴퓨터활용능력 1급 필기 | 2021.01.21 (목) | 대한상공회의소 |
 | 자동차운전면허증 1종보통 | 2016.03.23 (수) | 서울특별시경찰청 |
 
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhji1127)](https://solved.ac/yhji1127/)
-<br>
 <!-- 
 <br>
 
