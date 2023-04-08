@@ -42,7 +42,7 @@
 
 <br>
 
-<h3 align="center"> 🙏🏻 BOJ Tier 🙏🏻 </h3>
+<h3 align="center"> 🙏🏻 Problem Solving 🙏🏻 </h3>
 
 <div align=center>
  
